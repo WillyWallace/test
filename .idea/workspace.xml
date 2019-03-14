@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e1320a5-13ba-46e6-8a99-a04eff70e06d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/.doctrees/environment.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/.doctrees/environment.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/_modules/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/_modules/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/_modules/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/_modules/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/genindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/genindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/objects.inv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/py-modindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/py-modindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/build/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/test.rst" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/code/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -33,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="72" />
     <option name="width" value="1400" />
@@ -145,7 +156,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1374" height="722" extended-state="7" />
+    <frame x="-4" y="0" width="1374" height="722" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -182,8 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

@@ -21,7 +21,7 @@ def mira2nc(x):
     Examples:
 
     """
-    
+
     y = x * 2
     return y
 
