@@ -1,0 +1,14 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter M
+  \item \spxentry{mira2nc()}\spxextra{in module test}, \hyperpage{1}
+
+  \indexspace
+  \bigletter T
+  \item \spxentry{test}\spxextra{module}, \hyperpage{1}
+
+\end{sphinxtheindex}
