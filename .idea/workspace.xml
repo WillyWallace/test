@@ -77,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python docs.sphinx task pdf">
+  <component name="RunManager" selected="Python docs.sphinx task html">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
