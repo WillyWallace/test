@@ -11,8 +11,10 @@ Welcome to test's documentation!
    :caption: Contents:
 
 .. automodule:: test
+.. automodule:: test01
 
 .. autofunction:: test.mira2nc
+.. autofunction:: test01.peter
 
 
 Indices and tables

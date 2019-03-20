@@ -42,9 +42,32 @@
 <div class="toctree-wrapper compound">
 </div>
 <span class="target" id="module-test"></span><p>Functions for rebinning input data.</p>
+<span class="target" id="module-test01"></span><p>Functions for printing the input.</p>
 <dl class="function">
 <dt id="test.mira2nc">
 <code class="descclassname">test.</code><code class="descname">mira2nc</code><span class="sig-paren">(</span><em>x</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/test.html#mira2nc"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#test.mira2nc" title="Permalink to this definition">¶</a></dt>
+<dd><p>High-level API to convert Mira cloud radar Level 1 file into NetCDF file.</p>
+<p>This function converts raw cloud radar file into a much smaller file that
+contains only the relevant data and can be used in further processing steps.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd><p class="first">mmclx_file (str): Raw radar file in NetCDF format.
+output_file (str): Output file name.
+site_properties (dict): Dictionary containing information about the</p>
+<blockquote>
+<div>site. Required key value pairs are ‘name’.</div></blockquote>
+<dl class="last docutils">
+<dt>rebin_data (bool, optional): If True, rebins data to 30s resolution.</dt>
+<dd>Otherwise keeps the native resolution. Default is False.</dd>
+</dl>
+</dd>
+</dl>
+<p>Examples:</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="test01.peter">
+<code class="descclassname">test01.</code><code class="descname">peter</code><span class="sig-paren">(</span><em>x</em><span class="sig-paren">)</span><a class="reference internal" href="_modules/test01.html#peter"><span class="viewcode-link">[source]</span></a><a class="headerlink" href="#test01.peter" title="Permalink to this definition">¶</a></dt>
 <dd><p>High-level API to convert Mira cloud radar Level 1 file into NetCDF file.</p>
 <p>This function converts raw cloud radar file into a much smaller file that
 contains only the relevant data and can be used in further processing steps.</p>
